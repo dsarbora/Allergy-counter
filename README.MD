@@ -1,6 +1,6 @@
-#### _Allergy Counter_
+## _Allergy Counter_
 
-## _This console app assigns allergies to each power of 2, and will return a list of allergies for a given number._
+#### _This console app assigns allergies to each power of 2, and will return a list of allergies for a given number._
 
 ## _By Dave Sarbora_
 
